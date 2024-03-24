@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <font name="roboto_medium">
+        <certificate src="fonts/roboto_medium.ttf"/>
+    </font>
+</resources>
